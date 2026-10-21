@@ -1,0 +1,6 @@
+
+name = "myportfolio1" 
+compatibility_date = "2026-10-21"
+
+[assets]
+directory = "./" 
